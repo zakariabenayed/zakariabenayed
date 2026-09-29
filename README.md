@@ -26,8 +26,6 @@ Right now I work on the data side of AI: I annotate and evaluate training data f
 |---|---|---|
 | [Credit Scorecard](https://github.com/zakariabenayed/credit-scorecard) | Which borrowers will default? A bank-style scorecard on 150k borrowers, Gini 0.71 | Python, statistics |
 | [Customer Segmentation](https://github.com/zakariabenayed/customer-segmentation) | Who are the best customers and who is slipping away? RFM + K-means on 1M transactions | Python, scikit-learn |
-| LLM Complaint Classifier *(coming soon)* | Can an LLM route 4,800 real complaints correctly? Zero-shot LLM vs ML baseline, evaluated against human labels | Python, LLM API |
-| Loan Portfolio Monitoring *(coming soon)* | How is a $435M loan book performing? Default rates, vintage curves and data quality controls | SQL, Power BI, DAX |
 | [E-Commerce SQL Analysis](https://github.com/zakariabenayed/olist-ecommerce-sql-analysis) | Why late deliveries tank reviews and why customers don't come back, across 100k orders | SQL, DuckDB |
 
 ### 🚀 Currently
